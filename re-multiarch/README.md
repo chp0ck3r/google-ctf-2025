@@ -1,4 +1,4 @@
-# MULTIARCH-1
+# MULTIARCH-1 (solved by: @nevergiveup-c)
 
 ## Category: Reverse Engineering • Points: 126
 
